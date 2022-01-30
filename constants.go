@@ -8,7 +8,7 @@ const (
 	defaultHelloName = "localhost"
 
 	smtpTimeout = 30 * time.Second
-	smtpPort    = ":587"
+	smtpPort    = ":25"
 
 	reachableYes     = "yes"
 	reachableNo      = "no"
